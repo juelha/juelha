@@ -15,12 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## 🎓 I'm an B.Sc. Cognitive Science student at the University of Osnabrück.
 
 ## What I'm doing:
-:books: - attending the 4th semester of Cognitive Science B. Sc. program at the University of Osnabrück
-🔭 - working on building a simulation program for Multi-Agent Systems
-🌱 - learning to work with Data-oriented Design
+- 🎓 attending the 4th semester of Cognitive Science B. Sc. program at the University of Osnabrück
+- 🔭 working on building a simulation program for Multi-Agent Systems
+- 🌱 learning to work with Data-oriented Design
 
 ## Main Interests:
  - Swarm Intelligence 
