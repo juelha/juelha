@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 <p align="center">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" height="40" style="vertical-align:top; margin:4px">
 <img src="https://user-images.githubusercontent.com/50221806/86498201-a8bd8680-bd39-11ea-9d08-66b610a8dc01.png" alt="Numpy" height="40" style="vertical-align:top; margin:4px">
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRL6KVxKn3wF6RCh6noYsf08fydt2msfA8MeGb15TVkXwfBndztkWI9ulDiAvaiR9NjGJk&usqp=CAU" alt="Numpy" height="40" style="vertical-align:top; margin:4px">
+<img src="https://avatars.githubusercontent.com/u/21206976?s=280&v=4" alt="Pandas" height="40" style="vertical-align:top; margin:4px">
  
 <img src="https://camo.githubusercontent.com/52045ed9d775b4ac9286e51c28b878edca6bb1750815b423c8d06c7976040ab7/68747470733a2f2f6d617274696e63686176657a2e6769746875622e696f2f4173736574732f4c6f676f732f6373686172702e737667" alt="C#" height="40" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png" alt="R" height="40" style="vertical-align:top; margin:4px">
