@@ -27,6 +27,5 @@ Here are some ideas to get you started:
   
  
 </p>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juelha&show_icons=true&theme=tokyonight)
+[![juelha's github stats](https://github-readme-stats.vercel.app/api?username=juelha)](https://github.com/juelha/github-readme-stats)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=juelha&show_icons=true&theme=tokyonight)
