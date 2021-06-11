@@ -26,6 +26,7 @@ Here are some ideas to get you started:
  - Multi-Agent Systems
  - Self-organization and Emergence
  - Parallel Computing 
+ - Simulations and Digital Twins
  - Computational Creativity
  - AI and ML
 
