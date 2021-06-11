@@ -25,6 +25,7 @@ Here are some ideas to get you started:
  - Swarm Intelligence 
  - Multi-Agent Systems
  - Self-organization and Emergence
+ - Parallel Computing 
  - Computational Creativity
  - AI and ML
 
