@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 
 ## What I'm doing:
-- 🎓 attending the 4th semester of Cognitive Science B. Sc. program at the University of Osnabrück
+- 🎓 attending the Cognitive Science B. Sc. program at the University of Osnabrück
 - 🔭 working on building a simulation program for Multi-Agent Systems
 - 🌱 learning to work with Data-oriented Design
 
@@ -48,16 +48,3 @@ Here are some ideas to get you started:
  <img src="https://www.vhv.rs/dpng/d/208-2081256_python-logo-png-spyder-logo-spyder-python-icon.png" alt="Unity" height="40" style="vertical-align:top; margin:4px">
  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQG8hbeGjitgOUkpFBX-_i2VwCp8lfL8DSKbrucUGTSLsDvsSj4YOUswrBdzcRhYjeha-g&usqp=CAU" alt="Unity" height="40" style="vertical-align:top; margin:4px">
 
-## Stats:
-<!--
-![GitHub stats](https://readme-stats-cfgj2cxdy.vercel.app/api?username=juelha&count_private=true&show_icons=true&theme=tokyonight)
-![Top Langs](https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=juelha&hide=php&theme=tokyonight)
--->
-<div>
-<a href="https://readme-stats-cfgj2cxdy.vercel.app/api?username=juelha&count_private=true&show_icons=true&theme=tokyonight">
-  <img  align="left" src="https://readme-stats-cfgj2cxdy.vercel.app/api?username=juelha&count_private=true&show_icons=true&theme=tokyonight" />
-</a>
-<a href="https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=juelha&hide=php&theme=tokyonight">
-  <img align="left" src="https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=juelha&hide=php&theme=tokyonight" />
-</a>
-</div>
