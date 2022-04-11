@@ -19,7 +19,7 @@ I am Julia, aka Jay, a college student in the streets and a programmer in the sh
 ### What I'm doing:
 
 - 🎓 attending the Cognitive Science B. Sc. program at the [University of Osnabrück](https://www.ikw.uni-osnabrueck.de/en/home.html)
-- 🌱 developing an ai framework in collaboration with [Citrus Research International](https://www.citrusres.com/)
+- 🌱 developing an AI framework in collaboration with [Citrus Research International](https://www.citrusres.com/)
 - 🔭 planning to build a visualisation tool for the [MARS Group](https://mars-group.org/)
 
 
