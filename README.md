@@ -12,7 +12,7 @@
 
 
 <div align="center">
-I am Julia, aka Jay, a college student in the streets and a programmer in the sheets. 
+I am Julia, aka Jay, a college student in the streets and an ai programmer in the sheets. 
 </a></p></div>
 
 ----
@@ -74,9 +74,11 @@ I am Julia, aka Jay, a college student in the streets and a programmer in the sh
 <a href="https://ubuntu.com//" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg" alt="ubuntu" width="40" height="40"/> 
 </a> 
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
+ 
 </a>
-<img src="https://camo.githubusercontent.com/19f08d139ca07b552b7155d11311bc2c1046e3e12572a2ea1c997d5339dbdd76/68747470733a2f2f6d617274696e63686176657a2e6769746875622e696f2f4173736574732f4c6f676f732f76697375616c2d73747564696f2e737667" alt="Visual Studio" height="40" style="vertical-align:top; margin:4px">
+<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
+</a>
+<a href="https://visualstudio.microsoft.com/de/" target="_blank" rel="noreferrer"><img src="https://camo.githubusercontent.com/19f08d139ca07b552b7155d11311bc2c1046e3e12572a2ea1c997d5339dbdd76/68747470733a2f2f6d617274696e63686176657a2e6769746875622e696f2f4173736574732f4c6f676f732f76697375616c2d73747564696f2e737667" alt="Visual Studio" height="40" style="vertical-align:top; margin:4px">
 </a>
 
  ----
