@@ -87,7 +87,7 @@ I am Julia, aka Jay, a college student in the streets and an ai programmer in th
  
 Streak         |  Languages
 :-------------------------:|:-------------------------:
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=juelha&theme=radical&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)  |  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juelha&layout=compact&theme=radical&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=juelha&theme=radical&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)  |  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juelha&layout=compact&theme=radical&langs_count=16)](https://github.com/anuraghazra/github-readme-stats)
 
  
 
