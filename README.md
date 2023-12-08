@@ -1,27 +1,24 @@
 
 
+
+
+
+<img align="left" alt="GIF" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGI1ZGl2dGh5cGgxYXIzcTduc2FienY2aGhnNGlhaTAxc2Z0NXM3aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/fMgTf1GYDNhaLhBM12/giphy.gif" width="150" height="200" style="float:left; margin-right:10px;"><a href="https://giphy.com/stickers/taza-cofe-coff-fMgTf1GYDNhaLhBM12"></a></p></div>
+
 <h5 align="center">
-𝙷𝚎𝚕𝚕𝚘 𝚠𝚘𝚛𝚕𝚍!
+ 𝙷𝚎𝚕𝚕𝚘 𝚠𝚘𝚛𝚕𝚍!
 </h5>
-
-
-
-<div align="center">
-<img src="https://media0.giphy.com/media/l0HlNaQ6gWfllcjDO/giphy.gif?cid=790b7611721ee87d97dc15805cd7f9baa8a9283e6e9faa6c&rid=giphy.gif&ct=g" width="380" height="160" frameBorder="0" class="giphy-embed" allowFullScreen><a href="https://giphy.com/gifs/90s-80s-illustration-l0HlNaQ6gWfllcjDO"></a></p></div>
-
-
-
+</a></p></div>
 <div align="center">
 I am Julia, aka Jay, a college student in the streets and an ai programmer in the sheets. 
-</a></p></div>
 
-----
+
 ### What I'm doing:
 
-- 🎓 attending the Cognitive Science program at the [University of Osnabrück](https://www.ikw.uni-osnabrueck.de/en/home.html)
--  🌱 developing Neuro-Fuzzy Networks
-- 🔭 planning to build a simulation that shows the emergence of [spiral galaxies based on the rules of Conway's Game of Life](https://en.wikipedia.org/wiki/SSPSF_model)
-  
+   🎓 Attending the Cognitive Science program at the [University of Osnabrück](https://www.ikw.uni-osnabrueck.de/en/home.html)
+   🌱 Developing Neuro-Fuzzy Networks
+</a></p></div>
+ 
 ----
 ### Main Interests
 
@@ -78,6 +75,9 @@ I am Julia, aka Jay, a college student in the streets and an ai programmer in th
 
  ----
 ### !stats
+
+ <img align="right" alt="GIF" src="https://media.giphy.com/media/YmUzbfKCRlbJQoPqOz/giphy.gif" width="250" height="300" /><a href="https://giphy.com/stickers/plant-pot-indoor-YmUzbfKCRlbJQoPqOz"></a></p></div>
+
  
   Languages
 :-------------------------:
