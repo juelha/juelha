@@ -18,27 +18,25 @@ I am Julia, aka Jay, a college student in the streets and an ai programmer in th
 ----
 ### What I'm doing:
 
-- 🎓 attending the Cognitive Science B. Sc. program at the [University of Osnabrück](https://www.ikw.uni-osnabrueck.de/en/home.html)
-- 🌱 developing an AI framework based on Neuro-Fuzzy Hybrid Systems in collaboration with [Citrus Research International](https://www.citrusres.com/)
-- 🔭 planning to build a visualisation tool for the [MARS Group](https://mars-group.org/)
-
-
+- 🎓 attending the Cognitive Science program at the [University of Osnabrück](https://www.ikw.uni-osnabrueck.de/en/home.html)
+-  🌱 developing Neuro-Fuzzy Networks
+- 🔭 planning to build a simulation that shows the emergence of [spiral galaxies based on the rules of Conway's Game of Life](https://en.wikipedia.org/wiki/SSPSF_model)
+  
 ----
 ### Main Interests
 
-![](https://img.shields.io/badge/Artificial_intelligence-IMAGE_RECOGNITION-informational?style=for-the-badge&logo=appveyor&logo=<LOGO_NAME>&logoColor=white&color=blue)
-![](https://img.shields.io/badge/Artificial_intelligence-NEURO_FUZZY_LOGIC-informational?style=for-the-badge&logo=appveyor&logo=<LOGO_NAME>&logoColor=white&color=blue)
-![](https://img.shields.io/badge/Artifical_life-Emergence_and_Self_organization-informational?style=for-the-badge&logo=appveyor&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Artifical_life-Simulations_and_Digital_Twins-informational?style=for-the-badge&logo=appveyor&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Computing-Parallel_Computing-informational?style=for-the-badge&logo=appveyor&logo=<LOGO_NAME>&logoColor=white&color=9cf)
-![](https://img.shields.io/badge/Computing-GPGPU-informational?style=for-the-badge&logo=appveyor&logo=<LOGO_NAME>&logoColor=white&color=9cf)
+![](https://img.shields.io/badge/Artificial_intelligence-informational?style=for-the-badge&logo=appveyor&logo=<LOGO_NAME>&logoColor=white&color=blue)
+![](https://img.shields.io/badge/NEURO_FUZZY_LOGIC-informational?style=for-the-badge&logo=appveyor&logo=<LOGO_NAME>&logoColor=white&color=blue)
+![](https://img.shields.io/badge/Artifical_life-informational?style=for-the-badge&logo=appveyor&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Emergence_and_Self_organization-informational?style=for-the-badge&logo=appveyor&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Parallel_Computing-informational?style=for-the-badge&logo=appveyor&logo=<LOGO_NAME>&logoColor=white&color=9cf)
+![](https://img.shields.io/badge/GPGPU-informational?style=for-the-badge&logo=appveyor&logo=<LOGO_NAME>&logoColor=white&color=9cf)
 ![]()
 
 
 ----
-### Languages & Libraries
+### Languages & Libraries & Tools
 
-![](https://img.shields.io/badge/-AI-informational?style=for-the-badge&logo=appveyor&logo=<LOGO_NAME>&logoColor=white&color=blue)
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
 </a> 
 <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> 
@@ -52,7 +50,6 @@ I am Julia, aka Jay, a college student in the streets and an ai programmer in th
 <a href="https://www.anaconda.com/" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/anaconda/anaconda-original.svg"  alt="anaconda" width="40" height="40"/> 
 </a>
-![](https://img.shields.io/badge/-AL-informational?style=for-the-badge&logo=appveyor&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 </a>
 <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
 </a>
@@ -67,14 +64,12 @@ I am Julia, aka Jay, a college student in the streets and an ai programmer in th
 </a> 
 <a href="https://www.opengl.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/opengl/opengl-plain.svg" alt="opengl" width="40" height="40"/>
 </a>
-![](https://img.shields.io/badge/-TOOLS-informational?style=for-the-badge&logo=appveyor&logo=<LOGO_NAME>&logoColor=white&color=grey)
 </a> 
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
 </a> 
 <a href="https://ubuntu.com//" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg" alt="ubuntu" width="40" height="40"/> 
 </a> 
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
- 
 </a>
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
 </a>
@@ -82,19 +77,15 @@ I am Julia, aka Jay, a college student in the streets and an ai programmer in th
 </a>
 
  ----
-### Stats :
-
+### !stats
  
-Streak         |  Languages
-:-------------------------:|:-------------------------:
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=juelha&theme=radical&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)  |  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juelha&layout=compact&theme=radical&langs_count=16)](https://github.com/anuraghazra/github-readme-stats)
-
- 
+  Languages
+:-------------------------:
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juelha&layout=compact&theme=radical&langs_count=16)](https://github.com/anuraghazra/github-readme-stats)
 
 ----
 ### !socials
-<div id="badges" align="left">
-  <a href="https://www.linkedin.com/in/julia-hattendorf-65593a230/>
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-</div>
+<p align="left">
+  <a target="_blank"href="https://www.linkedin.com/in/julia-hattendorf/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
+
