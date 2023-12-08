@@ -6,22 +6,18 @@
 <img align="left" alt="GIF" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGI1ZGl2dGh5cGgxYXIzcTduc2FienY2aGhnNGlhaTAxc2Z0NXM3aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/fMgTf1GYDNhaLhBM12/giphy.gif" width="150" height="200" style="float:left; margin-right:10px;"><a href="https://giphy.com/stickers/taza-cofe-coff-fMgTf1GYDNhaLhBM12"></a></p></div>
 
 <h5 align="center">
- 𝙷𝚎𝚕𝚕𝚘 𝚠𝚘𝚛𝚕𝚍!
-</h5>
-</a></p></div>
+𝙸 𝚊𝚖 𝙹𝚞𝚕𝚒𝚊, 𝚊𝚔𝚊 𝙹𝚊𝚢, 𝚊 𝚌𝚘𝚕𝚕𝚎𝚐𝚎 𝚜𝚝𝚞𝚍𝚎𝚗𝚝 𝚒𝚗 𝚝𝚑𝚎 𝚜𝚝𝚛𝚎𝚎𝚝𝚜 𝚊𝚗𝚍 𝚊 AI 𝚙𝚛𝚘𝚐𝚛𝚊𝚖𝚖𝚎𝚛 𝚒𝚗 𝚝𝚑𝚎 𝚜𝚑𝚎𝚎𝚝𝚜.
+
 <div align="center">
-I am Julia, aka Jay, a college student in the streets and an ai programmer in the sheets. 
 
-
-### What I'm doing:
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">  𝙲𝚞𝚛𝚛𝚎𝚗𝚝 𝚘𝚋𝚓𝚎𝚌𝚝𝚒𝚟𝚎s:
 
    🎓 Attending the Cognitive Science program at the [University of Osnabrück](https://www.ikw.uni-osnabrueck.de/en/home.html)
    🌱 Developing Neuro-Fuzzy Networks
 </a></p></div>
  
 ----
-### Main Interests
-
+### 𝙼𝚊𝚒𝚗 𝙸𝚗𝚝𝚎𝚛𝚎𝚜𝚝𝚜:
 ![](https://img.shields.io/badge/Artificial_intelligence-informational?style=for-the-badge&logo=appveyor&logo=<LOGO_NAME>&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/NEURO_FUZZY_LOGIC-informational?style=for-the-badge&logo=appveyor&logo=<LOGO_NAME>&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Artifical_life-informational?style=for-the-badge&logo=appveyor&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
@@ -32,7 +28,7 @@ I am Julia, aka Jay, a college student in the streets and an ai programmer in th
 
 
 ----
-### Languages & Libraries & Tools
+### 𝙻𝚊𝚗𝚐𝚞𝚊𝚐𝚎𝚜 & 𝙻𝚒𝚋𝚛𝚊𝚛𝚒𝚎𝚜 & 𝚃𝚘𝚘𝚕𝚜
 
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
 </a> 
@@ -88,4 +84,5 @@ I am Julia, aka Jay, a college student in the streets and an ai programmer in th
 <p align="left">
   <a target="_blank"href="https://www.linkedin.com/in/julia-hattendorf/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
-
+</h5>
+</a></p></div>
