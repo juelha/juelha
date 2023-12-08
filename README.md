@@ -3,17 +3,15 @@
 
 
 
-<img align="left" alt="GIF" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGI1ZGl2dGh5cGgxYXIzcTduc2FienY2aGhnNGlhaTAxc2Z0NXM3aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/fMgTf1GYDNhaLhBM12/giphy.gif" width="150" height="200" style="float:left; margin-right:10px;"><a href="https://giphy.com/stickers/taza-cofe-coff-fMgTf1GYDNhaLhBM12"></a></p></div>
-
 <h5 align="center">
-𝙸 𝚊𝚖 𝙹𝚞𝚕𝚒𝚊, 𝚊𝚔𝚊 𝙹𝚊𝚢, 𝚊 𝚌𝚘𝚕𝚕𝚎𝚐𝚎 𝚜𝚝𝚞𝚍𝚎𝚗𝚝 𝚒𝚗 𝚝𝚑𝚎 𝚜𝚝𝚛𝚎𝚎𝚝𝚜 𝚊𝚗𝚍 𝚊 AI 𝚙𝚛𝚘𝚐𝚛𝚊𝚖𝚖𝚎𝚛 𝚒𝚗 𝚝𝚑𝚎 𝚜𝚑𝚎𝚎𝚝𝚜.
+ <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGI1ZGl2dGh5cGgxYXIzcTduc2FienY2aGhnNGlhaTAxc2Z0NXM3aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/fMgTf1GYDNhaLhBM12/giphy.gif" width="50">  𝙸 𝚊𝚖 𝙹𝚞𝚕𝚒𝚊, 𝚊𝚔𝚊 𝙹𝚊𝚢, 𝚊 𝚌𝚘𝚕𝚕𝚎𝚐𝚎 𝚜𝚝𝚞𝚍𝚎𝚗𝚝 𝚒𝚗 𝚝𝚑𝚎 𝚜𝚝𝚛𝚎𝚎𝚝𝚜 𝚊𝚗𝚍 𝚊 AI 𝚙𝚛𝚘𝚐𝚛𝚊𝚖𝚖𝚎𝚛 𝚒𝚗 𝚝𝚑𝚎 𝚜𝚑𝚎𝚎𝚝𝚜.
 
 <div align="center">
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">  𝙲𝚞𝚛𝚛𝚎𝚗𝚝 𝚘𝚋𝚓𝚎𝚌𝚝𝚒𝚟𝚎s:
-
+###  𝙲𝚞𝚛𝚛𝚎𝚗𝚝 𝚘𝚋𝚓𝚎𝚌𝚝𝚒𝚟𝚎s:
    🎓 Attending the Cognitive Science program at the [University of Osnabrück](https://www.ikw.uni-osnabrueck.de/en/home.html)
    🌱 Developing Neuro-Fuzzy Networks
+  
 </a></p></div>
  
 ----
