@@ -30,8 +30,10 @@
 ----
 ### 𝙻𝚊𝚗𝚐𝚞𝚊𝚐𝚎𝚜 & 𝙻𝚒𝚋𝚛𝚊𝚛𝚒𝚎𝚜 & 𝚃𝚘𝚘𝚕𝚜
 
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-</a> 
+
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juelha&layout=compact&theme=radical&langs_count=16&hide=jupyter%20notebook,Makefile,hlsl,QMake,Shaderlab)](https://github.com/anuraghazra/github-readme-stats)
+
+
 <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> 
 </a> 
 <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> 
@@ -43,13 +45,6 @@
 <a href="https://www.anaconda.com/" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/anaconda/anaconda-original.svg"  alt="anaconda" width="40" height="40"/> 
 </a>
-</a>
-<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
-</a>
-<a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
-</a> 
-<a href="https://developer.nvidia.com/cuda-toolkit" target="_blank" rel="noreferrer"> <img src="https://static.vecteezy.com/system/resources/previews/004/394/832/original/gpu-icon-graphic-chipset-vector.jpg" alt="cuda" width="40" height="40"/>
-</a> 
 <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.vox-cdn.com/thumbor/rIODN4GyZIKY1an1gXiV6OSeBOo=/100x0:1180x720/1820x1213/filters:focal(100x0:1180x720):format(webp)/cdn.vox-cdn.com/uploads/chorus_image/image/31304769/unity-logo-black_1280.0.jpg" alt="unity" width="60" height="40"/>
 </a> 
 <a href="https://www.qt.io/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40"/>
@@ -68,15 +63,7 @@
 </a>
 
 
- ----
-### !stats
-
  <img align="right" alt="GIF" src="https://media.giphy.com/media/YmUzbfKCRlbJQoPqOz/giphy.gif" width="250" height="300" /><a href="https://giphy.com/stickers/plant-pot-indoor-YmUzbfKCRlbJQoPqOz"></a></p></div>
-
- 
-  Languages
-:-------------------------:
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juelha&layout=compact&theme=radical&langs_count=16&hide=jupyter%20notebook,Makefile,hlsl,QMake,Shaderlab)](https://github.com/anuraghazra/github-readme-stats)
 
 ----
 ### !socials
