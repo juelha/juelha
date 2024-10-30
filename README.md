@@ -4,13 +4,14 @@
 
 <h5 align="center">
  
-  𝙸 𝚊𝚖 𝙹𝚞𝚕𝚒𝚊, 𝚊𝚔𝚊 𝙹𝚊𝚢, 𝚊 𝚌𝚘𝚕𝚕𝚎𝚐𝚎 𝚜𝚝𝚞𝚍𝚎𝚗𝚝 𝚒𝚗 𝚝𝚑𝚎 𝚜𝚝𝚛𝚎𝚎𝚝𝚜 𝚊𝚗𝚍 𝚊 AI 𝚙𝚛𝚘𝚐𝚛𝚊𝚖𝚖𝚎𝚛 𝚒𝚗 𝚝𝚑𝚎 𝚜𝚑𝚎𝚎𝚝𝚜. 
+  𝙸 𝚊𝚖 𝙹𝚞𝚕𝚒𝚊, 𝚊 𝚌𝚘𝚕𝚕𝚎𝚐𝚎 𝚜𝚝𝚞𝚍𝚎𝚗𝚝 𝚒𝚗 𝚝𝚑𝚎 𝚜𝚝𝚛𝚎𝚎𝚝𝚜 𝚊𝚗𝚍 𝚊n AI 𝚙𝚛𝚘𝚐𝚛𝚊𝚖𝚖𝚎𝚛 𝚒𝚗 𝚝𝚑𝚎 𝚜𝚑𝚎𝚎𝚝𝚜. 
 
 <div align="center">
 
 ### <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGI1ZGl2dGh5cGgxYXIzcTduc2FienY2aGhnNGlhaTAxc2Z0NXM3aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/fMgTf1GYDNhaLhBM12/giphy.gif" width="50">  𝙲𝚞𝚛𝚛𝚎𝚗𝚝 𝚘𝚋𝚓𝚎𝚌𝚝𝚒𝚟𝚎s:
-   🎓 Attending the Cognitive Science program at the [University of Osnabrück](https://www.ikw.uni-osnabrueck.de/en/home.html)
-   🌱 Developing Neuro-Fuzzy Networks
+   🎓 Attending the Cognitive Science program at the [University of Osnabrück](https://www.ikw.uni-osnabrueck.de/en/home.html)  <br /> 
+   🌱 Developing Neuro-Fuzzy Networks 
+   🧠 Learning about biologically inspired learning algorithms 
   
 </a></p></div>
  
@@ -18,6 +19,7 @@
 ### 𝙼𝚊𝚒𝚗 𝙸𝚗𝚝𝚎𝚛𝚎𝚜𝚝𝚜:
 ![](https://img.shields.io/badge/Artificial_intelligence-informational?style=for-the-badge&logo=appveyor&logo=<LOGO_NAME>&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/NEURO_FUZZY_LOGIC-informational?style=for-the-badge&logo=appveyor&logo=<LOGO_NAME>&logoColor=white&color=blue)
+![](https://img.shields.io/badge/Bio_Learning-informational?style=for-the-badge&logo=appveyor&logo=<LOGO_NAME>&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Artifical_life-informational?style=for-the-badge&logo=appveyor&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Emergence_and_Self_organization-informational?style=for-the-badge&logo=appveyor&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Parallel_Computing-informational?style=for-the-badge&logo=appveyor&logo=<LOGO_NAME>&logoColor=white&color=9cf)
@@ -64,8 +66,7 @@
 </a>
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
 </a>
-<a href="https://visualstudio.microsoft.com/de/" target="_blank" rel="noreferrer"><img src="https://camo.githubusercontent.com/19f08d139ca07b552b7155d11311bc2c1046e3e12572a2ea1c997d5339dbdd76/68747470733a2f2f6d617274696e63686176657a2e6769746875622e696f2f4173736574732f4c6f676f732f76697375616c2d73747564696f2e737667" alt="Visual Studio" height="40" style="vertical-align:top; margin:4px">
-</a>
+
 
  ----
 ### !stats
