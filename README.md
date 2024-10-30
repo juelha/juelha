@@ -76,7 +76,7 @@
  
   Languages
 :-------------------------:
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juelha&layout=compact&theme=radical&langs_count=16&hide=jupyter%20notebook,Makefile)](https://github.com/anuraghazra/github-readme-stats)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juelha&layout=compact&theme=radical&langs_count=16&hide=jupyter%20notebook,Makefile,hlsl,QMake,Shaderlab)](https://github.com/anuraghazra/github-readme-stats)
 
 ----
 ### !socials
